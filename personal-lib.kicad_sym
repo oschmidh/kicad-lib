@@ -6,7 +6,7 @@
     (property "Value" "OLED Display" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SCOLIB:SMIH-05VDC-SL-C, OLED DISPLAY, 128x64" (at 0 0 0)
+    (property "Footprint" "personal-lib:SMIH-05VDC-SL-C,OLED_DISPLAY,128x64" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://de.aliexpress.com/item/1005004386387583.html" (at 0 0 0)
